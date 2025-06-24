@@ -1,4 +1,7 @@
 ---
+index
+.exe
+.apk
 editLink: true
 ---
 
